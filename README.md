@@ -1,8 +1,8 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=让石头裂开的不是最后一击;而是前面一百次敲击的结果&center=true&size=27"> </a> </h1>
 
-<a href="https://discord.gg/shiba"><img src="https://i.imgur.com/z1oWSiy.png" width="100%" height="auto"/></a>
+<a href="https://zuji.zeabur.app/"><img src="https://www.3dmgame.com/uploads/allimg/170523/316-1F523102620.jpg" width="100%" height="auto"/></a>
 <p align="center">
-  <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://weibo.com/u/5041761719"><img width="32px" alt="Weibo" title="Weibo" src="http://www.sinaimg.cn/blog/developer/wiki/LOGO_64x64.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/MiaxuOfficial"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
