@@ -6,7 +6,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/IR931226"><img width="32px" alt="Twitter" title="Twitter" src="https://img.icons8.com/?size=1x&id=13963&format=png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/shiba" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://space.bilibili.com/65221383" alt="Bilibili"><img width="32px" src="https://img.icons8.com/?size=1x&id=5E24fZ9ORelo&format=png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/giingu"><img width="32px" alt="Dev.to" title="Giingu Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
