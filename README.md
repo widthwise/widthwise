@@ -8,7 +8,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://space.bilibili.com/65221383" alt="Bilibili"><img width="32px" src="https://img.icons8.com/?size=1x&id=5E24fZ9ORelo&format=png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.douban.com/people/144764650"><img width="32px" alt="Douban" title="Douban" src="https://icons8.com/icon/nCR8VCnxMNeP/douban"></a>
+  <a href="https://www.douban.com/people/144764650"><img width="32px" alt="Douban" title="Douban" src="https://img.icons8.com/?size=512&id=nCR8VCnxMNeP&format=png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/nezukobot"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
