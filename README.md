@@ -6,7 +6,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/IR931226"><img width="32px" alt="Twitter" title="Twitter" src="https://img.icons8.com/?size=1x&id=13963&format=png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://space.bilibili.com/65221383" alt="Bilibili"><img width="32px" src="https://img.icons8.com/?size=1x&id=5E24fZ9ORelo&format=png"/></a>
+  <a href="https://space.bilibili.com/65221383" alt="Bilibili"><img width="32px" src="https://img.ixintu.com/download/jpg/20201029/f3167643de69030781d74aaa62f03695_512_512.jpg!con"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.douban.com/people/144764650"><img width="32px" alt="Douban" title="Douban" src="https://www.douban.com/pics/icon/dou48.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -16,7 +16,7 @@
 </p>
 
 <br/>
-<i class="fa-brands fa-bilibili"></i>
+
 <p>
   
 Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer and community manager. I specialise in Web Development, JavaScript and Design. I love to network, join new communities and add value ✨
