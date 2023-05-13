@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://weibo.com/u/5041761719"><img width="32px" alt="Weibo" title="Weibo" src="http://www.sinaimg.cn/blog/developer/wiki/LOGO_64x64.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/MiaxuOfficial"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://www.zhihu.com/people/zu-ji-44"><img width="32px" alt="Zhihu" title="Zhihu" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/shiba" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -66,27 +66,4 @@ Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer and 
 <p align="left">
   <a href="https://github.com/Giingu?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
-<p align="right">
-  <a href="https://top.gg/bot/623481583411658753">
-    <img alt="nezuko bot" title="Check out Nezuko" src="https://custom-icon-badges.herokuapp.com/badge/Add%20Nezuko-D15E9B.svg?color=%23E05D44&label=Bot&logo=sdfdfsd&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://www.discord.gg/shiba">
-    <img alt="discord community" title="Join our community" src="https://custom-icon-badges.herokuapp.com/discord/624217127540359188?color=%23E1AD0E&logo=comments&logoColor=white&style=for-the-badge&labelColor=C79600"/></a><br>
-  <a href="https://github.com/Giingu?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FGiingu"/></a>
-  <a href="https://github.com/Giingu?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Giingu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/giingu">
-    <img alt="views" title="GitHub profile views" src="https://kounter.tk/badge/giingu?label=&color=333&style=for-the-badge&cntSuffix=%20Views"/></a>
-</p>
 
-## 🎮 Try pressing the buttons and come back down
-
-<div style="background:white;">
-<img src="https://toy.aoaoao.me/image" width="300"/> 
-
-
-<br><a href="https://toy.aoaoao.me/control?button=2&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/up.png" width="35"/></a>
-<br><a href="https://toy.aoaoao.me/control?button=1&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/left.png" width="35"/></a><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=0&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/right.png" width="35"/></a><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=5&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/B.png" width="35"/></a> <a href="https://toy.aoaoao.me/control?button=4&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/A.png" width="35"/></a>
-<br><a href="https://toy.aoaoao.me/control?button=3&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/down.png" width="35"/></a>
-<br><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=6&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/select.png" height="35"/></a> <a href="https://toy.aoaoao.me/control?button=7&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/start.png" height="35" /></a>
-  </div>
