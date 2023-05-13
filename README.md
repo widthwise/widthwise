@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小孙同学祝您今天愉快!&center=true&size=27"> </a> </h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=让石头裂开的不是最后一击;而是前面一百次敲击的结果&center=true&size=27"> </a> </h1>
 
 <a href="https://discord.gg/shiba"><img src="https://i.imgur.com/z1oWSiy.png" width="100%" height="auto"/></a>
 <p align="center">
