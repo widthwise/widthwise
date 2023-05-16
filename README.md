@@ -1,4 +1,4 @@
-<a href="https://zuji.zeabur.app/"><img src="https://www.3dmgame.com/uploads/allimg/170523/316-1F523102620.jpg" width="100%" height="auto"/></a>
+<a href="https://zuji.zeabur.app/"><img src="https://img.3dmgame.com/uploads/images/news/20191102/1572700045_169264.jpg" width="100%" height="auto"/></a>
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=让石头裂开的不是最后一击;而是前面一百次敲击的结果&center=true&size=27"> </a> </h1>
 
 <p align="center">
@@ -10,9 +10,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.douban.com/people/144764650"><img width="32px" alt="Douban" title="Douban" src="https://www.douban.com/pics/icon/dou48.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/nezukobot"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.patreon.com/nezukobot"><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 
 <br/>
